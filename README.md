@@ -27,7 +27,8 @@ A full description of the features in the file features_info.txt,  within the fo
 After placing the proper label to the columns, the R program does cleaning of the names as needed including removal of parenthesis and hyphens from  column locations where these are invalid.  
  The mean parameter of the studied features is estimated  once the data is grouped by subject and activity. Once the estimations are completed the file “run_data_summary.txt”  is written.
 
-References/Acknowledgements:
+References, Acknowledgements:
+
 Coursera and  Johns Hopkins  University:  Getting and Cleaning Data Couse Project
 
  Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
