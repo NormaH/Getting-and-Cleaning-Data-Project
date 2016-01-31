@@ -1,0 +1,45 @@
+Code Book
+The very first column (position A if txt file is converted  and viewed as csv file) shows the identification number id for each of the 30 subjects under this study.
+The second column ((position B if txt file is converted  and viewed as csv file) shows the activity label of each of the 6 activities traced for each subject under study.
+The following items describe the content of the columns holding measurements (each number id represents the content of 3 sequential columns in the text fie):
+
+1.	Mean of Mean body acceleration for the x, y, and z components, respectively (a column for each).
+2.	Mean of Standard Deviation of body acceleration in the x, y, and z components, respectively.
+3.	Mean of Mean gravitational acceleration in the x, y, and z components, respectively.
+4.	Mean of Standard Deviation of gravitational acceleration in the x, y, and z components, respectively.
+5.	Mean of Mean body acceleration jerk in the x, y, and z components, respectively.
+6.	Mean of Standard Deviation of body acceleration jerk in the x, y, and z components, respectively.
+7.	Mean of Mean rotational acceleration about the x, y, and z components, respectively.
+8.	Mean of Standard Deviation of rotational acceleration about the x, y, and z components, respectively.
+9.	Mean of Mean rotational acceleration jerk about the x, y, and z components, respectively.
+10.	Mean of Standard Deviation of rotational acceleration jerk about the x, y, and z components, respectively.
+11.	Mean of Mean magnitude of body acceleration.
+12.	Mean of Standard deviation of magnitude of body acceleration.
+13.	Mean of Mean magnitude of gravitational acceleration.
+14.	Mean of Standard deviation of magnitude of gravitational acceleration.
+15.	Mean of Mean magnitude of body acceleration jerk.
+16.	Mean of Standard deviation of magnitude of body acceleration jerk.
+17.	Mean of Mean magnitude of rotational acceleration.
+18.	Mean of Standard deviation of magnitude of rotational acceleration.
+19.	Mean of Mean magnitude of angular acceleration jerk.
+20.	Mean of Standard deviation of magnitude of angular acceleration jerk.
+21.	Mean of FFT of Mean body acceleration in the x, y, and z components, respectively.
+22.	Mean of FFT of Standard Deviation of body acceleration in the x, y, and z components, respectively.
+23.	Mean of FFT of Mean gravitational acceleration in the x, y, and z components, respectively.
+24.	Mean of FFT of Standard Deviation of gravitational acceleration in the x, y, and z components, respectively.
+25.	Mean of FFT of Mean body acceleration jerk in the x, y, and z components, respectively.
+26.	Mean of FFT of Standard Deviation of body acceleration jerk in the x, y, and z components, respectively.
+27.	Mean of FFT of Mean rotational acceleration about the x, y, and z components, respectively.
+28.	Mean of FFT of Standard Deviation of rotational acceleration of x, y, and z components.
+29.	Mean of FFT of Mean rotational acceleration jerk about the x, y, and z components, respectively.
+30.	Mean of FFT of Standard Deviation of rotational acceleration jerk about the x, y, and z components, respectively.
+31.	Mean of FFT of Mean magnitude of body acceleration.
+32.	Mean of FFT of Standard deviation of magnitude of body acceleration.
+33.	Mean of FFT of Mean magnitude of gravitational acceleration.
+34.	Mean of FFT of Standard deviation of magnitude of gravitational acceleration.
+35.	Mean of FFT of Mean magnitude of body acceleration jerk.
+36.	Mean of FFT of Standard deviation of magnitude of body acceleration jerk.
+37.	Mean of FFT of Mean magnitude of rotational acceleration.
+38.	Mean of FFT of Standard deviation of magnitude of rotational acceleration.
+39.	Mean of FFT of Mean magnitude of angular acceleration jerk.
+40.	Mean of FFT of Standard deviation of magnitude of angular acceleration jerk.
