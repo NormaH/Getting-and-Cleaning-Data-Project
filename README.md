@@ -1,7 +1,6 @@
- Code Book
+
 Original Data
-The datasets used in this project came from an accelerometer and a gyroscope 3-axial raw signals captured by Samsung Galaxy S Smartphone; data was processed using applicable signal processing technologies and methods to measurement vector consisting of 561 features  (“attributes”) as described by  Reyes-Ortiz, Anguita, Ghio, Oneto and Parra in its project  “Human Activity Recognition Using Smartphones Data Set “
-. 
+The datasets used for this project came from an accelerometer and a gyroscope 3-axial raw signals captured by Samsung Galaxy S Smartphone. Data was processed using applicable signal processing technologies and methods to measurement vector consisting of 561 features  (“attributes”) as described by  Reyes-Ortiz, Anguita, Ghio, Oneto and Parra in its source of data project  “Human Activity Recognition Using Smartphones Data Set “
 Subject Identification Fields
 •	Variable 1: subject Individual information from  the sample of 30 subjects submitted to the study . The "subject" refers to the participant's Identification (ID).
 •	Variable 2: activity:  Refers to the label of the activity performed when the corresponding measurements were taken.
